@@ -5,8 +5,9 @@
 SoundStage  es el lugar ideal para descubrir los conciertos de tus bandas favoritas. Gracias a la integración con Spotify, podrás conocer cuáles son tus grupos más escuchados y estar al tanto de sus próximos shows. Además, podrás comprar tus entradas directamente desde la plataforma y sincronizarlas con tu agenda para no perderte ningún espectáculo.
 
 
-## Objetivo
-
+## Público Objetivo
+Nuestro público objetivo está compuesto por fanáticos de conciertos, seguidores de bandas específicas y exploradores musicales
+tanto mujeres como hombres de edades entre 18 a 35 años
 
 ## Paginas de referencia
 * [Songkick](https://www.songkick.com/home)
